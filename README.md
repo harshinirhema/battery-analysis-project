@@ -14,3 +14,13 @@ This project analyzes battery discharge data and predicts capacity using machine
 - Pandas
 - Matplotlib
 - Scikit-learn
+  ## 📸 Sample Outputs
+
+### Voltage vs Time
+![Voltage vs Time](voltage_vs_time.png)
+
+### Voltage vs Capacity
+![Voltage vs Capacity](voltage_vs_capacity.png)
+
+### dQ/dV Analysis
+![dQ/dV](dq_dv.png)
